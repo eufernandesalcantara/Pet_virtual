@@ -16,7 +16,7 @@ Um jogo de terminal em Java que simula a adoção e o cuidado de um bichinho vir
 ## 📁 Estrutura do Projeto
 
 ```text
-estudo_java/
+Pet_virtual/
 ├── Pet.java          # Classe abstrata base (Superclasse)
 ├── Cachorro.java     # Subclasse de Pet
 ├── Gato.java         # Subclasse de Pet
